@@ -4,8 +4,8 @@ description: >-
   slivers, with stable scroll-up layout caching, RTL and both scroll axes.
 version: 0.1.0
 homepage: https://abdeldjalilchougui.biz/
-repository: https://github.com/AbeldjalilChougui/staggered_grid_layout
-issue_tracker: https://github.com/AbeldjalilChougui/staggered_grid_layout/issues
+repository: https://github.com/AbdeldjalilChougui/staggered_grid_layout
+issue_tracker: https://github.com/AbdeldjalilChougui/staggered_grid_layout/issues
 topics:
   - grid
   - masonry
